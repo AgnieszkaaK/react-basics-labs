@@ -44,3 +44,8 @@ div {
   font-style: italic;
   color:black;
 }
+.priority
+{
+  color: red;
+  font-weight:bold;
+}
